@@ -9,3 +9,8 @@ class NomalChara(Chara):
     def __init__(self,id,name):
         super().__init__(id,name)
 
+class ButtleChara(Chara):
+    #戦う生き物　魔物、主人公
+    def __init__(self, id, name):
+        super().__init__(id, name)
+
