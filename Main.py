@@ -1,7 +1,7 @@
-
+from objects import*
 
 def main():
-    print("a")
+    a = NomalChara(1,"aa")
 
 
 if __name__ == "__main__":
